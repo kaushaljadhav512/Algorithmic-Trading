@@ -1,5 +1,7 @@
 # Algorithmic Trading Bot: WnCC Codewars
 
+🥈 **First runner-up** (2nd place). See [`Result.pdf`](Result.pdf).
+
 Our team's entry (**Stonks**: Kaushal Jadhav, Shrey Ganatra, Jahnvi Rohela) to *Codewars*, an algorithmic-trading competition held by the Web and Coding Club (WnCC) at IIT Bombay.
 
 Each team writes a Python `Bot` that trades in a simulated stock market. The market has 20 securities, a fixed interest rate and changing market regimes. Bots are scored on final net worth across a range of market scenarios: bullish, bearish or neutral; stable or volatile; and low or high interest.
@@ -18,7 +20,7 @@ It is a long-only **mean-reversion** strategy based on an exponential moving ave
 
 ## Results
 
-[`Result.pdf`](Result.pdf) has the official leaderboard: final scores for every team across all 12 market scenarios.
+Team Stonks finished as **first runner-up**. [`Result.pdf`](Result.pdf) has the official leaderboard: final scores for every team across all 12 market scenarios.
 
 ## Repository layout
 
